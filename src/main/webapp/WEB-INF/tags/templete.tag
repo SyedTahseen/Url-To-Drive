@@ -10,17 +10,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Bhadoo Cloud - Upload to Google Drive</title>
+    <title>Upload to Google Drive</title>
     <meta name="description" content="Upload Files using URL to Google Drive the easy way.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="ReTB1LPGTaMBFG8EIW7EoAIXcr3QKu-RibNeVm7WkeM" />
     <meta name="robots" content="all,follow">
-    <link rel=apple-touch-icon href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
-    <link rel="shortcut icon" href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png"/>
-    <link rel=apple-touch-icon sizes=180x180 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.10/icons/apple-touch-icon.png">
-    <link rel=icon type="image/png" sizes=32x32 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.14/icons/favicon-32x32.png">
-    <link rel=icon type="image/png" sizes=16x16 href="//cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.14/icons/favicon-16x16.png">
-    <link rel=mask-icon href="//cdn.jsdelivr.net/gh/jscdn/images@1.0.1/PBG_Corporation_Owner_Profile.svg" color="#5bbad5">
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/Bhadoo-Cloud-Drive/src/main/resources/static/css/bootstrap.min.css">
     <!-- Google fonts - Lato | Open Sans | Poppins | Roboto | Work Sans -->
@@ -67,7 +61,7 @@
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down">
-			<img border="0" alt="Bhadoo Cloud" src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="30px">
+			<img border="0" alt="Drive-Now" src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="30px">
                         </div>
                         <div class="brand-text brand-small"><strong>BCD</strong></div>
                     </a>
@@ -121,9 +115,9 @@
                 <li><a href="/"><i class="fa fa-home"></i>Home</a></li>
                 <li><a href="/new_upload"><i class="fa fa-cloud-upload"></i>New Upload</a></li>
                 <li><a href="/uploads"> <i class="fa fa-tachometer"></i>Your Uploads</a></li>
-                <!-- <li><a href="https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive/issues"> <i class="fa fa-thumbs-o-up"></i>Suggest an Idea</a></li> -->
-                <!-- <li><a href="https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive/issues"> <i class="fa fa-bug"></i>Report a Bug</a></li> -->
-                <li><a href="https://hashhackers.com/contact"> <i class="fa fa-envelope-o "></i>Contact</a></li>
+                <!-- <li><a href="https://github.com/iTahseen/Url-To-Drive/issues"> <i class="fa fa-thumbs-o-up"></i>Suggest an Idea</a></li> -->
+                <!-- <li><a href="https://github.com/iTahseen/Url-To-Drive/issues"> <i class="fa fa-bug"></i>Report a Bug</a></li> -->
+                <li><a href="https://fb.com/itahseen"> <i class="fa fa-envelope-o "></i>Contact</a></li>
             </ul>
         </nav>
         <div class="content-inner" id="content-inner">
