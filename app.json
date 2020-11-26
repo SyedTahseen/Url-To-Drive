@@ -1,9 +1,9 @@
 {
-    "name": "SaveToGoogleDrive - Bhadoo Cloud",
+    "name": "Drive Now",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
-    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
-    "keywords": ["google","drive","bhadoo","bhadoo cloud"],
+    "repository": "https://github.com/iTahseen/Url-To-Drive",
+    "logo": "https://raw.github.com/iTahseen/Url-To-Drive/master/src/main/resources/static/img/savetodrive.png",
+    "keywords": ["google","drive","cloud"],
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
