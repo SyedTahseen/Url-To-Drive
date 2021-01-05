@@ -60,7 +60,7 @@
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down">
-			<img border="0" alt="Drive-Now" src="/drive-now.svg" height="30px">
+			<img border="0" alt="Drive-Now" src="https://cdn.jsdelivr.net/gh/syedtahseen/Url-To-Drive/drive-now.svg" height="30px">
                         </div>
                         <div class="brand-text brand-small"><strong>DriveNow</strong></div>
                     </a>
