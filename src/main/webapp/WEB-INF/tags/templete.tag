@@ -60,9 +60,9 @@
                     <div class="navbar-header">
                         <!-- Navbar Brand --><a href="/" class="navbar-brand">
                         <div class="brand-text brand-big hidden-lg-down">
-			<img border="0" alt="Drive-Now" src="https://cdn.jsdelivr.net/gh/jscdn/svg@1.0.1/bhadoo-cloud-logo.svg" height="30px">
+			<img border="0" alt="Drive-Now" src="/drive-now.svg" height="30px">
                         </div>
-                        <div class="brand-text brand-small"><strong>BCD</strong></div>
+                        <div class="brand-text brand-small"><strong>DriveNow</strong></div>
                     </a>
                         <!-- Toggle Button--><a id="toggle-btn" href="#"
                                                 class="menu-btn active"><span></span><span></span><span></span></a>
